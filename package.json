@@ -6,7 +6,7 @@
   "keywords": ["Artitalk", "Comment"],
   "author": "612901<xiaoxin104@outlook.com>",
   "dependencies": {
-    "@Artitalk/vercel": "^3.3.0",
+    "@Artitalk/vercel": "3.3.0",
     "express": "^4.17.1"
   }
 }
