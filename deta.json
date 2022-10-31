@@ -1,6 +1,6 @@
 {
-	"name": "Waline Example",
-	"description": "An Waline starter example for deploy to deta",
+	"name": "Artitalk Example",
+	"description": "An Artitalk starter example for deploy to deta",
 	"env": [
 		{
 			"key": "LEAN_ID",
