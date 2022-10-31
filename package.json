@@ -4,7 +4,7 @@
   "description": "An Artitalk starter repository for deploy to deta",
   "main": "index.js",
   "keywords": ["Artitalk", "Comment"],
-  "author": "lizheming<i@imnerd.org>",
+  "author": "612901<xiaoxin104@outlook.com>",
   "dependencies": {
     "@Artitalk/vercel": "^3.3.0",
     "express": "^4.17.1"
