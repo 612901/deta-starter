@@ -1,7 +1,7 @@
 const express = require('express');
-const Waline = require('@waline/vercel');
+const Artitalk = require('@Artitalk/vercel');
 const app = express();
-const callback = Waline({ 
+const callback = Artitalk({ 
   env: 'deta'
 });
 
