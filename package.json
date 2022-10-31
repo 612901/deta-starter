@@ -1,7 +1,7 @@
 {
   "name": "deta-starter",
   "version": "1.0.0",
-  "description": "An Waline starter repository for deploy to deta",
+  "description": "An Artitalk starter repository for deploy to deta",
   "main": "index.js",
   "keywords": ["Artitalk", "Comment"],
   "author": "lizheming<i@imnerd.org>",
